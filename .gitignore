@@ -2,6 +2,7 @@
 node_modules/
 .vscode/
 
+
 # Compiled source #
 ###################
 *.com
@@ -26,3 +27,4 @@ node_modules/
 *.rar
 *.tar
 *.zip
+package-lock.json
