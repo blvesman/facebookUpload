@@ -28,3 +28,4 @@ node_modules/
 *.tar
 *.zip
 package-lock.json
+package-lock.json
